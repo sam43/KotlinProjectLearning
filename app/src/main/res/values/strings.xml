@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinProject</string>
+    <string name="dummy_text">This text is gonna change on button click!</string>
+    <string name="new_text">Hi! Here is the new text!</string>
+    <string name="go_back">Go Back</string>
+    <string name="go_ok">Ok</string>
+</resources>
